@@ -1,4 +1,4 @@
-## **Rotating the Space: What LLMs Actually Are: On LLMs as a Medium for Thought**
+## **Rotating the Space: On LLMs as a Medium for Thought**
 
 **The Problem with How People Think About LLMs**
 
