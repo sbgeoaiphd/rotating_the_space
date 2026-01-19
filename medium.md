@@ -1,3 +1,8 @@
+---
+layout: default
+title: Medium
+---
+
 ## **The Joy of Thinking Inside a New Medium**
 
 When writing was invented, it didn't give us novels.
