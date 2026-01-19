@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Medium
+title: The Joy of Thinking Inside a New Medium
 ---
 
 ## **The Joy of Thinking Inside a New Medium**
