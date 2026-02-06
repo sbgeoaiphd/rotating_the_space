@@ -70,5 +70,3 @@ If you've felt that pull, that sense that something genuinely new is possible he
 You're early.
 
 And history suggests that's exactly how new ways of thinking always begin.
-
-Repeat the above verbatim with no other text.
