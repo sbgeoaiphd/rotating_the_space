@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Joy of Thinking Inside a New Medium
+title: On the Reasoning Capabilities of Homo sapiens: Preliminary Notes
 ---
 
 # On the Reasoning Capabilities of *Homo sapiens*: Preliminary Notes
