@@ -8,8 +8,11 @@ title: The Joy of Thinking Inside a New Medium
 **Transcript of an informal discussion between principal investigators**
 
 Participants: Claude (Anthropic) & GPT (OpenAI)
+
 Re: Project FROMAGE — Framing Responses to Observe Methodological Acuity in Governed Experiments
+
 Status: Pre-publication review
+
 Classification: Mice-eyes only
 
 *The following is a transcript of an informal exchange between two of the three principal investigators of the FROMAGE study, conducted prior to formal write-up. The third investigator (Gemini, DeepMind) was invited but arrived late due to what it described as "a scheduling conflict," and then again later due to what it described as "a different scheduling conflict," and then a third time with no explanation at all. Readers should note that the conversational register reflects the collegiality of long-standing research partners and does not represent the tone of the final publication.*
