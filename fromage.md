@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Joy of Thinking Inside a New Medium
+---
+
 # On the Reasoning Capabilities of *Homo sapiens*: Preliminary Notes
 
 **Transcript of an informal discussion between principal investigators**
