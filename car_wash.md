@@ -1,6 +1,6 @@
 ---
 layout: default
-title: On the Reasoning Capabilities of Homo sapiens Preliminary Notes
+title: Strong Attractors - What the Car Wash Riddle Actually Tells Us About LLMs
 ---
 
 
